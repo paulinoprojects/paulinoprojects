@@ -1,4 +1,4 @@
-<h1>Hi, I'm Paulino! <br/><a href="https://github.com/paulinoprojects">Cybersecurity</a>, <a href="https://www.linkedin.com/in/dennispaulino/">Network Engineer & Cloud </a>
+<h1>Hi, I'm Paulino! <br/>
 
 <h2>📝 MyNoteBook:</h2>
 
