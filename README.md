@@ -8,7 +8,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Lab</b>
-  - [Powershell Walk-Through](https://github.com/paulinoprojects/-PowerShellCommands)
+  - [Basic Powershell Walk-Through](https://github.com/paulinoprojects/-PowerShellCommands)
 
 <h2>✨ Certifications ✨</h2>
 
