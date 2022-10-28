@@ -7,8 +7,8 @@
   
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Cybersecurity</b>
-  - [Risk Management Framework](https://github.com/paulinoprojects/NIST-RMF/tree/main)
+- <b>Lab</b>
+  - [Powershell Walk-Through](https://github.com/paulinoprojects/-PowerShellCommands)
 
 <h2>✨ Certifications ✨</h2>
 
