@@ -1,8 +1,8 @@
 <h1>Hi, I'm Paulino! <br/><a href="https://github.com/paulinoprojects">Cybersecurity</a>, <a href="https://www.linkedin.com/in/dennispaulino/">Network Engineer & Cloud </a>
 
-<h2>👨‍💻 Notes & Development Projects:</h2>
+<h2>👨‍💻 MyNoteBook:</h2>
 
-- <b>Note Book</b>
+- <b>Cybersecurity</b>
   - [Risk Management Framework](https://github.com/paulinoprojects/NIST-RMF/tree/main)
 
 <h2>✨ Certifications ✨</h2>
