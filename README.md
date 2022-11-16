@@ -4,7 +4,7 @@
 
 - <b>Cybersecurity</b>
   - [Risk Management Framework](https://github.com/paulinoprojects/NIST-RMF/tree/main)
-  - [Intelligence Notes](https://github.com/paulinoprojects/IntelligenceLifeCycle)
+  - [Intelligence Cycle](https://github.com/paulinoprojects/IntelligenceLifeCycle/blob/main/Intelligence_README.md)
   
 <h2>👨‍💻 Projects:</h2>
 
