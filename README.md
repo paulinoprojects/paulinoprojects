@@ -3,8 +3,8 @@
 <h2>📝 MyNoteBook:</h2>
 
 - <b>Cybersecurity</b>
-  - [Risk Management Framework](https://github.com/paulinoprojects/NIST-RMF/tree/main)
-  - [Intelligence Cycle](https://github.com/paulinoprojects/IntelligenceLifeCycle/blob/main/Intelligence_README.md)
+  - [NIST RMF IR Notes](https://github.com/paulinoprojects/NIST-RMF/tree/main)
+  - [Intelligence Cycle Notes](https://github.com/paulinoprojects/IntelligenceLifeCycle/blob/main/Intelligence_README.md)
   
 <h2>👨‍💻 Projects:</h2>
 
