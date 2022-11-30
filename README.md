@@ -1,12 +1,9 @@
 <h1>Hi, I'm Paulino! <br/>
 
-<h2>📝 MyNoteBook:</h2>
+<h2>📝 Notes2Self:</h2>
 
-- <b>Cybersecurity Notes</b>
   - [NIST RMF & Incident Response Notes](https://github.com/paulinoprojects/NIST-RMF/tree/main)
   - [Intelligence Cycle Notes](https://github.com/paulinoprojects/IntelligenceLifeCycle/blob/main/Intelligence_README.md)
-
-- <b> Automation/Implementation for Infrastructure </b>
   - [Ansible](https://github.com/paulinoprojects/Ansible)
   
   
