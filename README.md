@@ -2,9 +2,11 @@
 
 <h2>📝 Notes</h2>
 
-  - [NIST RMF & Incident Response Notes](https://github.com/paulinoprojects/NIST-RMF/tree/main)
+  - [RMF & Incident Response Notes](https://github.com/paulinoprojects/RiskManagement)
   - [Intelligence Cycle Notes](https://github.com/paulinoprojects/IntelligenceLifeCycle/blob/main/Intelligence_README.md)
+  - [NMAP](https://github.com/paulinoprojects/NMAP)
   - [Ansible](https://github.com/paulinoprojects/Ansible)
+  - [Repository](https://github.com/paulinoprojects?tab=repositories)
   
   
   
@@ -25,5 +27,5 @@
 <h2> 🌱 I’m currently learning 🔭...</h2>
   
  - Cybersecurity
- - Python
  - AWS & Azure
+ - Python
