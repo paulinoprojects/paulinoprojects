@@ -6,7 +6,7 @@
   - [Intelligence Cycle Notes](https://github.com/paulinoprojects/IntelligenceLifeCycle/blob/main/Intelligence_README.md)
   - [NMAP](https://github.com/paulinoprojects/NMAP)
   - [Ansible](https://github.com/paulinoprojects/Ansible)
-  - [Repository](https://github.com/paulinoprojects?tab=repositories)
+  - [My Repository & Notes](https://github.com/paulinoprojects?tab=repositories)
   
   
   
