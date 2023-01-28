@@ -27,5 +27,5 @@
 <h2> 🌱 I’m currently learning 🔭...</h2>
   
  - Cybersecurity
- - AWS 
+ - [AWS] (https://github.com/paulinoprojects/AWS_host_a_static_website/blob/main/README.md)
  - [Python](https://github.com/paulinoprojects/PythonNotes)
