@@ -1,12 +1,16 @@
 <h1>Hi, I'm Paulino! <br/>
 
 <h2>📝 Notes</h2>
-
+  
+  - [My Repository & Notes](https://github.com/paulinoprojects?tab=repositories)
+  
+  <h5> My Key Notes/Highlights </h5>
+  
   - [RMF & Incident Response Notes](https://github.com/paulinoprojects/RiskManagement)
   - [Intelligence Cycle Notes](https://github.com/paulinoprojects/IntelligenceLifeCycle/blob/main/Intelligence_README.md)
   - [NMAP](https://github.com/paulinoprojects/NMAP)
   - [Ansible](https://github.com/paulinoprojects/Ansible)
-  - [My Repository & Notes](https://github.com/paulinoprojects?tab=repositories)
+
   
   
   
@@ -26,6 +30,7 @@
 
 <h2> 🌱 I’m currently learning 🔭...</h2>
   
- - Cybersecurity
+ - [Cybersecurity]()
  - [AWS](https://github.com/paulinoprojects/AWS_host_a_static_website/blob/main/README.md)
  - [Python](https://github.com/paulinoprojects/PythonNotes)
+ - [Java](https://github.com/paulinoprojects/JavaBasics)
