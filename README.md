@@ -1,9 +1,9 @@
 <h1>Hi, I'm Paulino! <br/>
 
-<h2>📝 Notes</h2>
+<h2>📝 </h2>
   
   - [View My Repository & Notes](https://github.com/paulinoprojects?tab=repositories)
-  - [View My Profesional Portfolio](www.paulinoprojects.com)
+  - [View My Profesional Portfolio](https://paulinoprojects.com/index.html)
   
   <h5> My Key Notes/Highlights </h5>
   
