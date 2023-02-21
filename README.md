@@ -1,7 +1,4 @@
 <h1>Hi, I'm Paulino! <br/>
-
-<h2>📝 </h2>
-  
   - [View My Repository & Notes](https://github.com/paulinoprojects?tab=repositories)
   - [View My Profesional Portfolio](https://paulinoprojects.com/index.html)
   
@@ -11,8 +8,6 @@
   - [Intelligence Cycle Notes](https://github.com/paulinoprojects/IntelligenceLifeCycle/blob/main/Intelligence_README.md)
   - [NMAP](https://github.com/paulinoprojects/NMAP)
   - [Ansible](https://github.com/paulinoprojects/Ansible)
-
-  
   
   
 <h2>👨‍💻 Personal Projects</h2>
