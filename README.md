@@ -16,6 +16,7 @@
   
 <h2>👨‍💻 Personal Projects</h2>
 
+  - [AWS - Static Website Design & Deployment] (https://github.com/paulinoprojects/AWS_Practical_Exercise1)
   - [NetApp Basics & Setup Walkthrough](https://github.com/paulinoprojects/NetApp)
   - [FIM Walkthrough](https://github.com/paulinoprojects/FileIntegrityMonitor)
   
@@ -31,6 +32,6 @@
 <h2> 🌱 I’m currently learning 🔭...</h2>
   
  - [Cybersecurity](https://github.com/paulinoprojects/RiskManagement/blob/main/RiskManagementFrameworkConcepts.md)
- - [AWS](https://github.com/paulinoprojects/AWS_host_a_static_website/blob/main/README.md)
+ - [AWS](https://github.com/paulinoprojects/AWS)
  - [Python](https://github.com/paulinoprojects/PythonNotes)
  - [Java](https://github.com/paulinoprojects/JavaBasics)
