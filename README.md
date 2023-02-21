@@ -30,7 +30,7 @@
 
 <h2> 🌱 I’m currently learning 🔭...</h2>
   
- - [Cybersecurity]()
+ - [Cybersecurity](https://github.com/paulinoprojects/RiskManagement/blob/main/RiskManagementFrameworkConcepts.md)
  - [AWS](https://github.com/paulinoprojects/AWS_host_a_static_website/blob/main/README.md)
  - [Python](https://github.com/paulinoprojects/PythonNotes)
  - [Java](https://github.com/paulinoprojects/JavaBasics)
