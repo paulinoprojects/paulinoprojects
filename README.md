@@ -1,4 +1,5 @@
-<h1>Hi, I'm Paulino! <br/>
+<h1>Hi, I'm Paulino! </h1>
+  
   - [View My Repository & Notes](https://github.com/paulinoprojects?tab=repositories)
   - [View My Profesional Portfolio](https://paulinoprojects.com/index.html)
   
