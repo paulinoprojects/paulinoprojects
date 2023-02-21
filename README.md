@@ -2,7 +2,8 @@
 
 <h2>📝 Notes</h2>
   
-  - [My Repository & Notes](https://github.com/paulinoprojects?tab=repositories)
+  - [View My Repository & Notes](https://github.com/paulinoprojects?tab=repositories)
+  - [View My Profesional Portfolio](www.paulinoprojects.com)
   
   <h5> My Key Notes/Highlights </h5>
   
