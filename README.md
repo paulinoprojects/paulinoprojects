@@ -13,6 +13,7 @@
   
 <h2>👨‍💻 Personal Projects</h2>
 
+  - [WindowOS Security Checklist](https://github.com/paulinoprojects/WindowsOS-Security-Checklist/blob/main/README.md)
   - [AWS - Static Website Design & Deployment](https://github.com/paulinoprojects/AWS_Practical_Exercise1)
   - [NetApp Basics & Setup Walkthrough](https://github.com/paulinoprojects/NetApp)
   - [FIM Walkthrough](https://github.com/paulinoprojects/FileIntegrityMonitor)
