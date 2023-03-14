@@ -9,6 +9,7 @@
   - [Intelligence Cycle Notes](https://github.com/paulinoprojects/IntelligenceLifeCycle/blob/main/Intelligence_README.md)
   - [NMAP](https://github.com/paulinoprojects/NMAP)
   - [Ansible](https://github.com/paulinoprojects/Ansible)
+  - [POAM Documentation Process](https://github.com/paulinoprojects/POAM)
   
   
 <h2>👨‍💻 Personal Projects</h2>
@@ -26,6 +27,7 @@
  - CompTIA Network+
  - Cisco Certified Network Associate
  - Azure Fundamentals
+ - [Cybersecurity Skills Roadmap](https://github.com/paulinoprojects/CyberSecuritySkillsRoadMap)
 
 <h2> 🌱 I’m currently learning 🔭...</h2>
   
