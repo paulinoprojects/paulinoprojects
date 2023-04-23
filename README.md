@@ -10,7 +10,7 @@
   - [NMAP](https://github.com/paulinoprojects/NMAP)
   - [Ansible](https://github.com/paulinoprojects/Ansible)
   - [POAM Documentation Process](https://github.com/paulinoprojects/POAM)
-  - [Trade Studies: ISSO Tools - eMass](https://github.com/paulinoprojects/eMass-Trade-Tools-Study/blob/main/README.md)
+  - [Trade Studies: Infomation System Security Officer (ISSO)](https://github.com/paulinoprojects/Trade-Studies-ISSO)
   
   
 <h2>👨‍💻 Personal Projects</h2>
