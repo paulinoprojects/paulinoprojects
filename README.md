@@ -23,12 +23,9 @@
 
 <h2>✨ Certifications ✨</h2>
 
- - CompTIA Cybersecurity Analyst+
- - CompTIA Security+
- - CompTIA Network+
+ - CompTIA Cybersecurity Analyst+ | Security+ | Network+
  - Cisco Certified Network Associate
  - Azure Fundamentals
- - [Cybersecurity Skills Roadmap](https://github.com/paulinoprojects/CyberSecuritySkillsRoadMap)
 
 <h2> 🌱 I’m currently learning 🔭...</h2>
   
