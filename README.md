@@ -9,8 +9,8 @@
   - [Intelligence Cycle Notes](https://github.com/paulinoprojects/IntelligenceLifeCycle/blob/main/Intelligence_README.md)
   - [NMAP](https://github.com/paulinoprojects/NMAP)
   - [Ansible](https://github.com/paulinoprojects/Ansible)
-  - [POAM Documentation Process](https://github.com/paulinoprojects/POAM)
-  - [Trade Studies: Infomation System Security Officer (ISSO)](https://github.com/paulinoprojects/Trade-Studies-ISSO)
+  - [VMware Studies]([https://github.com/paulinoprojects/POAM](https://github.com/paulinoprojects/VMware))
+  - [Juniper SRX Studies]([https://github.com/paulinoprojects/Trade-Studies-ISSO](https://github.com/paulinoprojects/JuniperSRX))
   
   
 <h2>👨‍💻 Personal Projects</h2>
