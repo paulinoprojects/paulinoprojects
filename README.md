@@ -9,7 +9,7 @@
   - [Intelligence Cycle Notes](https://github.com/paulinoprojects/IntelligenceLifeCycle/blob/main/Intelligence_README.md)
   - [NMAP](https://github.com/paulinoprojects/NMAP)
   - [Ansible](https://github.com/paulinoprojects/Ansible)
-  - [VMware Studies]([https://github.com/paulinoprojects/POAM](https://github.com/paulinoprojects/VMware))
+  - [VMware Studies](https://github.com/paulinoprojects/VMware)
   - [Juniper SRX Studies]([https://github.com/paulinoprojects/Trade-Studies-ISSO](https://github.com/paulinoprojects/JuniperSRX))
   
   
@@ -26,6 +26,7 @@
  - CompTIA Cybersecurity Analyst+ | Security+ | Network+
  - Cisco Certified Network Associate
  - Azure Fundamentals
+ - Juniper Networks Certified Internet Associate
 
 <h2> 🌱 I’m currently learning 🔭...</h2>
   
