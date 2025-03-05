@@ -31,5 +31,5 @@
  - [Cybersecurity](https://github.com/paulinoprojects/RiskManagement/blob/main/RiskManagementFrameworkConcepts.md)
  - [AWS](https://github.com/paulinoprojects/AWS)
  - [Python](https://github.com/paulinoprojects/PythonNotes)
- - [Java](https://github.com/paulinoprojects/JavaBasics)
+ - [PaloAlto](https://github.com/paulinoprojects/PaloAlto)
  - [Powershell](https://github.com/paulinoprojects/PowerShellCommands)
