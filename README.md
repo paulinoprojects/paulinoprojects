@@ -31,6 +31,6 @@
   
  - [Cybersecurity](https://github.com/paulinoprojects/RiskManagement/blob/main/RiskManagementFrameworkConcepts.md)
  - [AWS](https://github.com/paulinoprojects/AWS)
- - [ACAS](https://github.com/paulinoprojects/ACAS))
+ - [ACAS](https://github.com/paulinoprojects/ACAS)
  - [PaloAlto](https://github.com/paulinoprojects/PaloAlto)
  - [Powershell](https://github.com/paulinoprojects/PowerShellCommands)
