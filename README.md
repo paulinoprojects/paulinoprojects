@@ -32,4 +32,4 @@
  - [AWS](https://github.com/paulinoprojects/AWS)
  - [Python](https://github.com/paulinoprojects/PythonNotes)
  - [Java](https://github.com/paulinoprojects/JavaBasics)
- - [Ansible](https://github.com/paulinoprojects/Ansible)
+ - [Powershell]([https://github.com/paulinoprojects/Ansible](https://github.com/paulinoprojects/PowerShellCommands))
