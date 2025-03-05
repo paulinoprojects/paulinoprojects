@@ -9,6 +9,7 @@
   - [Intelligence Cycle Notes](https://github.com/paulinoprojects/IntelligenceLifeCycle/blob/main/Intelligence_README.md)
   - [VMware Studies](https://github.com/paulinoprojects/VMware)
   - [Juniper SRX Studies](https://github.com/paulinoprojects/JuniperSRX)
+  - [Elastic Stack](https://github.com/paulinoprojects/ElasticStack/)
   
   
 <h2>👨‍💻 Personal Projects</h2>
