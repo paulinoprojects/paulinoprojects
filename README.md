@@ -7,9 +7,9 @@
   
   - [RMF & Incident Response Notes](https://github.com/paulinoprojects/RiskManagement)
   - [Intelligence Cycle Notes](https://github.com/paulinoprojects/IntelligenceLifeCycle/blob/main/Intelligence_README.md)
-  - [VMware Studies](https://github.com/paulinoprojects/VMware)
+  - [Tool Study: VMware vCenter & ESXI](https://github.com/paulinoprojects/VMware)
   - [Juniper SRX Studies](https://github.com/paulinoprojects/JuniperSRX)
-  - [Elastic Stack](https://github.com/paulinoprojects/ElasticStack/)
+  - [Tool Study: Ansible](https://github.com/paulinoprojects/Ansible/)
   
   
 <h2>👨‍💻 Personal Projects</h2>
